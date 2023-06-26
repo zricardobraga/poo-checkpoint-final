@@ -47,7 +47,7 @@ public class Main {
 			funcionario1.setFuncionarios(funcionario1);
 //			funcionario1.setFuncionarios(funcionario2);
 
-			System.out.println("***LISTAR FUNCIONÁRIOS POR ID");
+			System.out.println("***LISTAR FUNCIONÁRIOS POR ID***");
 			System.out.println(funcionario1.buscarPorId(01));
 
 			System.out.println();
